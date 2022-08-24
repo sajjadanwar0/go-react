@@ -1,10 +1,10 @@
-# go-react
+# GO React Admin
 
-#Tech Stacks
+# Tech Stacks
 
-Fiber framework (GoLang)
-Gorm ORM (Database)
-React (Pure functional components)
-Typescript
-Mysql
-Bootstrap
+ 1) Fiber framework (GoLang)
+ 2) Gorm ORM (Database)
+ 3) React (Pure functional components)
+ 4) Typescript
+ 5) Mysql
+ 6) Bootstrap
